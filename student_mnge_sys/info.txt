@@ -1,0 +1,2 @@
+student id:234 info:{'name': 'Ram', 'id': 234, 'course': 'IT'}
+student id:987 info:{'name': 'Shyam', 'id': 987, 'course': 'CS'}
